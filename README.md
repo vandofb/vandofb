@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy 👋😌
+
+- 💻 I’m creating software, data/ai, test automation projects and also educational content
+- 🌱 You can support the development by buying me coffees on [Ko-fi in R$](https://ko-fi.com/vandofb) | [BuyMeACoffee in €](https://buymeacoffee.com/vandofb)
+- 💡 I’m currently learning cloud technologies and taking certifications exams, check it out on [Credly](https://www.credly.com/users/vandofb)
+- 🤝 I’m looking to collaborate on open-source projects, start-up business and consulting work
+- 💬 I invite you to keep in touch and will share more information on [LinkedIn](https://www.linkedin.com/in/vandofb)
 
 <!--
 **vandofb/vandofb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
